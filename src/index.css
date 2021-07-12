@@ -12,21 +12,21 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #f05f40;
+  border-color: #dda94b;
 }
 
 hr.light {
-  border-color: #fff;
+  border-color: #1e4174;
 }
 
 a {
-  color: #f05f40;
+  color: #dda94b;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
 }
 a:hover {
-  color: #f05f40;
+  color: #dda94b;
 }
 
 h1,
@@ -45,11 +45,11 @@ h1 {
 }
 
 .bg-primary {
-  background-color: #f05f40 !important;
+  background-color: #dda94b !important;
 }
 
 .bg-dark {
-  background-color: #212529 !important;
+  background-color: #1e4174 !important;
 }
 
 .text-faded {
@@ -65,34 +65,34 @@ section {
 }
 
 ::-moz-selection {
-  color: #fff;
-  background: #212529;
+  color: #1e4174;
+  background: #1e4174;
   text-shadow: none;
 }
 
 ::selection {
-  color: #fff;
-  background: #212529;
+  color: #1e4174;
+  background: #1e4174;
   text-shadow: none;
 }
 
 img::selection {
-  color: #fff;
+  color: #1e4174;
   background: transparent;
 }
 
 img::-moz-selection {
-  color: #fff;
+  color: #1e4174;
   background: transparent;
 }
 
 body {
-  -webkit-tap-highlight-color: #212529;
+  -webkit-tap-highlight-color: #1e4174;
 }
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-  background-color: #fff;
+  background-color: #1e4174;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
@@ -101,12 +101,12 @@ body {
 #mainNav .navbar-brand {
   font-weight: 700;
   text-transform: uppercase;
-  color: #f05f40;
+  color: #dda94b;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
 }
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
-  color: #f05f40;
+  color: #dda94b;
 }
 #mainNav .navbar-nav > li.nav-link,
 #mainNav .navbar-nav > li.nav-link:focus {
@@ -114,15 +114,15 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   cursor: pointer;
-  color: #212529;
+  color: #ee4b28;
 }
 #mainNav .navbar-nav > li.nav-link:hover,
 #mainNav .navbar-nav > li.nav-link:focus:hover {
-  color: #f05f40;
+  color: #dda94b;
 }
 #mainNav .navbar-nav > li.nav-link.active,
 #mainNav .navbar-nav > li.nav-link:focus.active {
-  color: #f05f40 !important;
+  color: #dda94b !important;
   background-color: transparent;
 }
 #mainNav .navbar-nav > li.nav-link.active:hover,
@@ -132,10 +132,10 @@ body {
 @media (min-width: 992px) {
   #mainNav {
     border-color: transparent;
-    background-color: #fff;
+    background-color: #1e4174;
   }
   #mainNav .navbar-brand {
-    color: #f05f40;
+    color: #dda94b;
   }
   #mainNav .navbar-brand:focus,
   #mainNav .navbar-brand:hover {
@@ -151,22 +151,22 @@ body {
   }
   #mainNav.navbar-shrink {
     border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-    background-color: #fff;
+    background-color: #ee4b28;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #f05f40;
+    color: #dda94b;
   }
   #mainNav.navbar-shrink .navbar-brand:focus,
   #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #f05f40;
+    color: #dda94b;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-link,
   #mainNav.navbar-shrink .navbar-nav > li.nav-link:focus {
-    color: #212529;
+    color: #ee4b28;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-link:focus:hover {
-    color: #f05f40;
+    color: #dda94b;
   }
 }
 
@@ -290,7 +290,7 @@ div.masthead p {
 }
 
 .text-primary {
-  color: #f05f40 !important;
+  color: #dda94b !important;
 }
 
 /* Buttons */
@@ -307,13 +307,13 @@ div.masthead p {
 }
 
 .btn-primary {
-  background-color: #f05f40;
-  border-color: #f05f40;
+  background-color: #dda94b;
+  border-color: #dda94b;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-  color: #fff;
+  color: #ee4b28;
   background-color: #ee4b28 !important;
 }
 .btn-primary:active,
@@ -331,7 +331,7 @@ footer i.fab {
 }
 
 a.white-link {
-  color: #fff;
+  color: #1e4174;
 }
 
 /* Contact Us Form */
@@ -349,12 +349,12 @@ a.white-link {
 }
 
 .form-control:hover {
-  border-color: #f05f40;
+  border-color: #dda94b;
 }
 
 .form-control:focus {
   color: #495057;
-  border-color: #f05f40;
+  border-color: #dda94b;
   box-shadow: 0 0.313rem 0.719rem rgba(0, 123, 255, 0.1),
     0 0.156rem 0.125rem rgba(0, 0, 0, 0.06);
 }
@@ -413,7 +413,7 @@ form label:hover {
   line-height: 2rem;
 }
 .portfolio-box-caption-content a:hover {
-  color: #fff;
+  color: #1e4174;
   text-decoration: none;
 }
 .portfolio-box-caption-content i.fab {
