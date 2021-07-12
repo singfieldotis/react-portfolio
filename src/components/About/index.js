@@ -18,12 +18,11 @@ function About() {
             <hr />
             <p className="text-faded mb-5">
               I am an experienced front end developer with detailed full stack
-              knowledge. I have more than eight years of experience in
-              developing mid- to large-scale websites using the latest core web
-              technologies, in which I maintain expert-level knowledge. I
-              recently earned a Certificate in Full Stack Web Development from
-              the University of Texas at Austin, where I developed skills in
-              MERN Stack and SQL Server.
+              knowledge. I have been a hobbyist since 2008 when it comes to
+              programming and web development. I decided to actually get serious
+              and make a career out of this in mid-2019. I have recently
+              completed the Web Development Bootcamp cirriculum at the
+              University of Central Florida in the Summer of 2021.
             </p>
 
             <p className="text-faded mb-5">
