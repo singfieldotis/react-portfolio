@@ -50,7 +50,7 @@ function Resume() {
               <li>ExpressionEngine</li>
             </ul>
             <p className="text-center">
-              Download my{" "}
+              Click here to download my{" "}
               <a href={Pdf} className="text-faded white-link" download>
                 resume
               </a>

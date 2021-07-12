@@ -18,6 +18,7 @@ function Project({ project }) {
               href={repo}
               className="project-category text-faded"
               target="_blank"
+              rel="noreferrer"
             >
               <i className="fab fa-github"></i>
             </a>
@@ -26,6 +27,7 @@ function Project({ project }) {
               href={link}
               className="project-category text-faded"
               target="_blank"
+              rel="noreferrer"
             >
               {removeHyphensAndCapitalize(name)}
             </a>{" "}

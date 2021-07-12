@@ -6,6 +6,7 @@ html {
 
 body {
   font-family: "Merriweather", "Helvetica Neue", Arial, sans-serif;
+  background-color: #1e4174;
 }
 
 hr {
@@ -35,6 +36,7 @@ h4,
 h5,
 h6 {
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+  color: #dda94b;
 }
 
 h1 {
@@ -51,7 +53,7 @@ h1 {
 }
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7);
+  color: #dda94b;
 }
 
 section {
@@ -171,7 +173,6 @@ body {
 div.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("./assets/img/header.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -229,7 +230,7 @@ div.masthead p {
   height: 100%;
   text-align: center;
   opacity: 0;
-  color: #fff;
+  color: #ee4b28;
   background: rgba(240, 95, 64, 0.9);
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
