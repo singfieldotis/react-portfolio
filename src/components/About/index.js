@@ -26,12 +26,10 @@ function About() {
             </p>
 
             <p className="text-faded mb-5">
-              My strong organizational skills and excellent problem-solving
-              abilities allow me to effectively collaborate on cross-functional
-              teams that include designers, software developers, scrum masters,
-              and project managers. My advanced education, professional
-              background in technology, drive for success, and strong attention
-              to detail are great assets that I own.
+              I have strong organizational skills and excellent problem-solving
+              abilities which allow me to effectively collaborate on
+              cross-functional teams that would include designers, software
+              developers, scrum masters, and project managers.
             </p>
           </div>
         </div>
