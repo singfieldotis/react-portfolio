@@ -109,7 +109,10 @@ function Contact() {
             <h4>
               Otis Singfield <br />
               Or just send me an email at:{" "}
-              <a href="singfieldotis@gmail.com"> singfieldotis@gmail.com</a>
+              <a href="mailto:singfieldotis@gmail.com">
+                {" "}
+                singfieldotis@gmail.com
+              </a>
             </h4>
           </div>
         </div>
