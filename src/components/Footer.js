@@ -1,14 +1,19 @@
+
 import React from "react";
 
 function Footer() {
   const icons = [
     {
       name: "fab fa-github",
-      link: "https://github.com/singfieldotis",
+      link: "https://github.com/sylviaprabudy",
     },
     {
       name: "fab fa-linkedin",
-      link: "https://www.linkedin.com//in/singfieldotis",
+      link: "https://www.linkedin.com/public-profile/in/sylvia-prabudy-62984153",
+    },
+    {
+      name: "fab fa-stack-overflow",
+      link: "https://stackoverflow.com/users/13452330/sylvia-prabudy",
     },
   ];
 
@@ -35,3 +40,4 @@ function Footer() {
 }
 
 export default Footer;
+
