@@ -11,6 +11,12 @@ function Portfolio() {
   const [currentPage] = useState(pages[0]);
   const [projects] = useState([
     {
+      name: "proximo",
+      description: "Full MERN Stack Web Application",
+      link: "https://blooming-wildwood-24520.herokuapp.com/",
+      repo:"https://github.com/iiTONELOC/proximo",
+    },
+    {
       name: "git-that-money",
       description: "MySQL/Express/Handlebars",
       link: "https://sleepy-eyrie-10581.herokuapp.com",
